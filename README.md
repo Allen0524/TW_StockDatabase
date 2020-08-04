@@ -1,1 +1,6 @@
-# TW_StockDatabase
+# TW_StockDatabased
+
+>建立台灣股票的資料庫，其中包含:
+>* 月營收資料
+>* 股價
+>* 三大財務報表
