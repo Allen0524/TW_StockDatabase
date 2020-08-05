@@ -1,4 +1,4 @@
-# TW_StockDatabased
+# TW_StockDatabase
 
 建立台灣上市公司股票的資料庫，其中包含:
 * 月營收資料
@@ -15,12 +15,14 @@
 * DB Browser for SQLite
 
 ## 檔案說明
-#### 1. month_revenue.ipynb 
+#### 1. monthRevenue.py 
 >此檔案為月營收爬蟲
-#### 2. price.ipynb 
+#### 2. price.py
 >此檔案為股價資訊爬蟲
-#### 3. financialReport.ipynb 
+#### 3. financialReport.py 
 >此檔案為三大財務報表爬蟲
+#### 4. toSQL.py 
+>寫入資料庫
 
 
 
