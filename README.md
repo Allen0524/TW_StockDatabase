@@ -20,11 +20,11 @@
 
 ## 檔案說明
 #### 1. monthRevenue.py 
->此檔案為月營收爬蟲
+>月營收爬蟲
 #### 2. price.py
->此檔案為股價資訊爬蟲
+>股價資訊爬蟲
 #### 3. financialReport.py 
->此檔案為三大財務報表爬蟲
+>三大財務報表爬蟲
 #### 4. dividend.py 
 >爬取歷年股利
 #### 5. toSQL.py 
